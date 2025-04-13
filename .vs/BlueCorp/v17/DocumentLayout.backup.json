@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\BlueCorp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DE9EF1-1546-4D41-95B0-19ADEEBD9E0A}|BlueCorp.D365\\BlueCorp.D365.csproj|c:\\users\\administrator\\desktop\\bluecorp\\bluecorp.d365\\controller\\dispatchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DE9EF1-1546-4D41-95B0-19ADEEBD9E0A}|BlueCorp.D365\\BlueCorp.D365.csproj|solutionrelative:bluecorp.d365\\controller\\dispatchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DE9EF1-1546-4D41-95B0-19ADEEBD9E0A}|BlueCorp.D365\\BlueCorp.D365.csproj|c:\\users\\administrator\\desktop\\bluecorp\\bluecorp.d365\\mapper\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DE9EF1-1546-4D41-95B0-19ADEEBD9E0A}|BlueCorp.D365\\BlueCorp.D365.csproj|solutionrelative:bluecorp.d365\\mapper\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DispatchController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BlueCorp\\BlueCorp.D365\\Controller\\DispatchController.cs",
+              "RelativeDocumentMoniker": "BlueCorp.D365\\Controller\\DispatchController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BlueCorp\\BlueCorp.D365\\Controller\\DispatchController.cs",
+              "RelativeToolTip": "BlueCorp.D365\\Controller\\DispatchController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwBcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T04:06:24.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutomapperConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BlueCorp\\BlueCorp.D365\\Mapper\\AutomapperConfig.cs",
+              "RelativeDocumentMoniker": "BlueCorp.D365\\Mapper\\AutomapperConfig.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BlueCorp\\BlueCorp.D365\\Mapper\\AutomapperConfig.cs",
+              "RelativeToolTip": "BlueCorp.D365\\Mapper\\AutomapperConfig.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAkwBoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T03:38:30.39Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

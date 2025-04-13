@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BlueCorp.D365.props" />
+</Project>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\BlueCorp.ThirdPL.props" />
+</Project>

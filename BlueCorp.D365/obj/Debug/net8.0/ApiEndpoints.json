@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "BlueCorp.D365.Controller.DispatchController",
+    "Method": "Post",
+    "RelativePath": "api/dispatch",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "BlueCorp.D365.DTO.DispatchRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

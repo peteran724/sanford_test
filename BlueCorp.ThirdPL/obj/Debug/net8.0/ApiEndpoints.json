@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "BlueCorp.ThirdPL.Controller.UploadController",
+    "Method": "Post",
+    "RelativePath": "api/upload",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "jsonFile",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
